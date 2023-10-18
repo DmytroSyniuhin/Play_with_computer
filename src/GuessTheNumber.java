@@ -24,8 +24,6 @@ public class GuessTheNumber {
                 } else {
                     System.out.println("Знову промахнулися. Число, яке загадав комп'ютер було " + randomNumber);
                 }
-
-
             }
         }
     }
